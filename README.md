@@ -2,7 +2,7 @@
 
 Emotion classifier trained with Fastai, displayed with a Jupyter notebook and Voila, deployed with Binder.
 
-Upload a photo of a person face with one of the following emotions: **angry, happy, surprised, thinking**.
+Upload a photo of a person face with one of the following emotions: **angriness, happiness, surprise, thinking**.
 This application will tell you which one of those feelings in that image.
 The model has been trained with photos of humans (so it not supposed to work with paintings, animals...)
 
